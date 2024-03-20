@@ -37,12 +37,12 @@ _N.B_: Si vous préférez avoir plus de contrôle sur l'exécution de votre scri
 
 ## Installation
 
-1.  Installez Visual Studio Code pour votre platforme depuis [ce lien](https://code.visualstudio.com/).
-2.  Une fois dans l'IDE, cliquez sur l'icon ci-dessous (1).
+1. Installez Visual Studio Code pour votre platforme depuis [ce lien](https://code.visualstudio.com/).
+2. Une fois dans l'IDE, cliquez sur l'icon ci-dessous (1).
     ![Installation](https://raw.githubusercontent.com/charles-zablit/gibiane-vscode/master/images/installation.png)
-3.  Tapez "Gibiane" dans la barre de recherche (2) et sélectionnez le premier résultat (3).
-4.  Cliquez sur le boutton "Installer" (4).
-5.  Vous pouvez maintenant ouvrir votre fichier `.dgibi`.
+3. Tapez "Gibiane" dans la barre de recherche (2) et sélectionnez le premier résultat (3).
+4. Cliquez sur le boutton "Installer" (4).
+5. Vous pouvez maintenant ouvrir votre fichier `.dgibi`.
 
 ## Configuration
 
