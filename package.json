@@ -48,12 +48,17 @@
         "gibiane-vscode.Commande": {
           "type": "string",
           "description": "La commande à exécuter pour lancer le script Gibiane, SANS le chemin du fichier.",
-          "default": "castem20"
+          "default": "castem23"
         },
         "gibiane-vscode.afficherBouttonDExecution": {
           "type": "boolean",
           "description": "Afficher le bouton d'exécution des scripts Gibiane ou non.",
           "default": true
+        },
+        "gibiane-vscode.lange": {
+          "type": "string",
+          "description": " La langue de la documentation de Cast3M à afficher dans l'éditeur.",
+          "default": "fr"
         }
       }
     },
