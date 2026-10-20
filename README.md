@@ -1,6 +1,6 @@
-# Gibiane pour VSCode
+# Gibiane Language Support
 
-![Version](https://img.shields.io/visual-studio-marketplace/v/CharlesZablit.gibiane-vscode) ![Installs](https://img.shields.io/visual-studio-marketplace/i/CharlesZablit.gibiane-vscode) ![Last commit](https://img.shields.io/github/last-commit/charles-zablit/gibiane-vscode) ![Open issues](https://img.shields.io/github/issues/charles-zablit/gibiane-vscode) ![Closed issues](https://img.shields.io/github/issues-closed/charles-zablit/gibiane-vscode) ![Size](https://img.shields.io/github/repo-size/charles-zablit/gibiane-vscode) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/charles-zablit/gibiane-vscode/Deploy%20Extension)
+![Version](https://img.shields.io/visual-studio-marketplace/v/cast3m-community.gibiane) ![Installs](https://img.shields.io/visual-studio-marketplace/i/cast3m-community.gibiane) ![Last commit](https://img.shields.io/github/last-commit/D3mianGianoz/gibiane-vscode) ![Open issues](https://img.shields.io/github/issues/D3mianGianoz/gibiane-vscode) ![Closed issues](https://img.shields.io/github/issues-closed/D3mianGianoz/gibiane-vscode) ![Size](https://img.shields.io/github/repo-size/D3mianGianoz/gibiane-vscode)
 
 ![Example Syntax](https://raw.githubusercontent.com/charles-zablit/gibiane-vscode/master/images/example-1.png)
 

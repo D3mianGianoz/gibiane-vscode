@@ -6,6 +6,10 @@ package-lock.json
 src/**
 node_modules/**
 images/**
+webscraper/**
 webscrapper/**
 webpack.config.js
 .github/
+.pytest_cache/
+*.vsix
+*.zip

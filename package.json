@@ -1,14 +1,14 @@
 {
-  "name": "gibiane-vscode",
-  "displayName": "Gibiane",
-  "description": "Gibiane syntax highlighting",
+  "name": "gibiane",
+  "displayName": "Gibiane Language Support",
+  "description": "Gibiane language support, syntax highlighting, and documentation for Cast3M",
   "version": "1.1.0",
-  "publisher": "CharlesZablit",
+  "publisher": "cast3m-community",
   "main": "dist/gbIndex",
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/charles-zablit/gibiane-vscode.git"
+    "url": "https://github.com/D3mianGianoz/gibiane-vscode.git"
   },
   "engines": {
     "vscode": "^1.14.0"
